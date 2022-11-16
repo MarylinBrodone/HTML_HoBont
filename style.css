@@ -1,0 +1,110 @@
+body{
+    background-color: rgb(36, 34, 34);
+    color:white;
+    font-size: 20px;
+}
+
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.rectangle{
+    width: 960px;
+    margin: 20px;
+    text-align: center;
+}
+
+.square{
+    width: 50%;
+    float: left;
+}
+
+#logo{
+    float:left;
+    font-size: 70px;
+    width: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#zegar{
+    float:left;
+    font-size: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.tile1{
+    margin:10px;
+    width: 230px;
+    height: 142px;
+    background-color: #3095d3;
+    float: left;
+}
+
+.tile2{
+    margin:10px;
+    width: 230px;
+    height: 142px;
+    background-color: #666666;
+    float: left;
+}
+
+.tile3{
+    margin:10px;
+    width: 230px;
+    height: 142px;
+    background-color: greenyellow;
+    float: left;
+}
+
+.tile4{
+    margin:10px;
+    width: 480px;
+    height: 142px;
+    background-color: orange;
+    
+}
+
+.tile5{
+    margin: 10px;
+    width: 480px;
+    height: 304px;
+    background-color: #666666;
+
+}
+
+.yt{
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: red;
+    float: left;
+}
+
+.fb{
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: blue;
+    float: left;
+}
+
+.twitter{
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: lightskyblue;
+    float: left;
+}
+
+.discord{
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: purple;
+    float: left;
+}
